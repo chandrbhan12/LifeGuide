@@ -1,0 +1,7 @@
+{
+  "name": "LifeGuide AI",
+  "description": "A kind, human-centric AI assistant designed to provide life guidance, emotional support, and practical advice, with a special focus on elderly care.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
